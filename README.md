@@ -1,6 +1,6 @@
 # MvcMovie
 
-ASP.NET Core Razor Pages tutorial
+ASP.NET Core MVC tutorial
 1. Add a controller
 2. Add a view
    - Add a view
